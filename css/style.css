@@ -1,0 +1,125 @@
+.Main {
+    display: flex;
+    border: 5px solid black;
+    width: 1440px;
+    height: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+.left-box {
+    width: 650px;
+    height: 950px;
+    margin-left: 70px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+
+}
+.logo {
+    width: 507px;
+    height: 531px;
+}
+.div1lg {
+    width: 439px;
+    height: 103px;
+}
+.content {
+    border: 1px solid #1565D8;
+    width: 500px;
+    height: 311px;
+    padding-top: 5px;
+    padding-left: 4px;
+    margin-top: 60px;
+    border-radius: 16px;
+    align-items: center;
+    box-sizing: border-box;
+}
+.dot {
+    font-size: 76px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 70px;
+    color: #1565D8;
+}
+.paragraf {
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 38px;
+    padding-bottom: 40px;
+}
+.name {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 38px;
+    color: rgba(21, 101, 216, 0.6);
+}
+.consolo {
+    position: absolute;
+    width: 336px;
+    height: 418px;
+    left: 550px;
+    top: 600px;
+}
+.right-box {
+    border: 5px solid gray;
+    height: 950px;
+    width: 750px;
+}
+/* .logging {
+    display: flex;
+    border: 5px solid blue;
+} */
+h1 {
+    margin-right: auto;
+    margin-left: auto;
+}
+.head {
+    margin-top: 146px;
+    width: 303px;
+    height: 51px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 51px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+
+}
+.secondP {
+    margin-top: 12px;
+    width: 411px;
+    height: 28px;
+    margin-right: auto;
+    margin-left: auto;
+    align-items: center;
+    text-align: center;
+    color: #8692A6;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+}
+.icons {
+    display: flex;
+    width: 45px;
+    height: 45px;
+    margin-right: 16px;
+    padding: 16px;
+    box-shadow: 0.75em 0.75em 1em;
+}
+.iconmain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
